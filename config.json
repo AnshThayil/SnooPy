@@ -1,0 +1,8 @@
+{
+  "reddit_client_id": "YOUR REDDIT CLIENT ID HERE",
+  "reddit_client_secret": "YOUR REDDIT CLIENT SECRET HERE",
+  "reddit_username": "YOUR REDDIT USERNAME HERE",
+  "reddit_password": "YOUR REDDIT PASSWORD HERE",
+  "reddit_user_agent": "YOUR REDDIT CLIENT ID HERE",
+  "telegram_bot_token": "YOUR TELEGRAM BOT TOKEN HERE"
+}
